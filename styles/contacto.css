@@ -1,0 +1,8 @@
+nav{
+    background-color: palevioletred;
+}
+.content{
+    display: block;
+    position: absolute;
+    margin-top: 80px;
+}
